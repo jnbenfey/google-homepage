@@ -1,0 +1,63 @@
+header {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.leftnav {
+    float: left;
+}
+.rightnav {
+    float: right;
+}
+.nav {
+    color: #000000;
+    font-family: arial;
+    text-decoration: none;
+    opacity: 0.75;
+    }
+
+.nav:hover {
+    text-decoration: underline;
+}
+#logo {
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+    display: block;
+    margin: auto;
+    padding: 100px 0 20px 0;
+}
+#search-bar {
+    font-size: 16px;
+    display: block;
+    margin: auto;
+    min-width: 272px;
+    border-radius: 10px;
+    min-height: 25px;
+    border-color: gray;
+}
+button {
+    display: inline-block;
+    min-width: 120px;
+}
+#about {
+    padding: 20px 0 0 20px;
+}
+#store {
+    padding: 20px 0 0 20px;
+}
+#gmail {
+    padding: 20px 20px 0 0;
+}
+#images {
+    padding: 20px 20px 0 0;
+}
+form {
+    text-align: center;
+}
+#search {
+    margin-right: 20px;
+}
